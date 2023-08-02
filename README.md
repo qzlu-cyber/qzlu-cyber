@@ -1,4 +1,14 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=👋Hi+there!+Good+to+see+you+on+my+Github+page!)](https://git.io/typing-svg)
+
+[![pPP8FG6.png](https://s1.ax1x.com/2023/08/02/pPP8FG6.png)](https://imgse.com/i/pPP8FG6)
+
+### 📚 My Skills
+
+![](https://skillicons.dev/icons?perline=15&i=github,git,c,cpp,vscode,js,react,mongo,md)
+
+### 🦁 Top Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=qzlu-cyber&layout=compact&theme=dark)
 
 <!--
 **qzlu-cyber/qzlu-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
