@@ -8,7 +8,7 @@
 
 ### 🦁 Top Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=qzlu-cyber&layout=compact&theme=dark)
+![](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=qzlu-cyber&layout=compact&theme=dark)
 
 <!--
 **qzlu-cyber/qzlu-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
